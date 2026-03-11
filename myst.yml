@@ -1,0 +1,18 @@
+version: 1
+
+project:
+  title: "ML Final Project: Surviving the Berry Island"
+  authors:
+    - name: Student s-001073 ( Abhishek Halivan)
+  keywords:
+    - machine learning
+    - clustering
+    - classification
+    - regression
+  toc:
+    - file: notebooks/Final_project.ipynb
+
+site:
+  title: "ML Final Project: Surviving the Berry Island"
+  options:
+    favicon: ""

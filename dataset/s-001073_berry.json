@@ -1,0 +1,4502 @@
+[
+    {
+        "age":2.1468542306,
+        "height":96.0435584171,
+        "soil_quality":5.2240595727,
+        "berry_colour":"green",
+        "berry_size":9.079037061,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.265461498,
+        "height":143.9013312684,
+        "soil_quality":5.2021353828,
+        "berry_colour":"grey",
+        "berry_size":9.5339100458,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.2160022088,
+        "height":10.3235325477,
+        "soil_quality":4.7920879644,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.5578234852,
+        "height":7.3081317557,
+        "soil_quality":5.2375802182,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.0127775535,
+        "height":219.6335943727,
+        "soil_quality":3.9043114342,
+        "berry_colour":"purple",
+        "berry_size":6.0707691968,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.6681780235,
+        "height":163.248131549,
+        "soil_quality":3.3555371254,
+        "berry_colour":"grey",
+        "berry_size":7.2454741544,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.6706888132,
+        "height":121.4265939886,
+        "soil_quality":3.8319399406,
+        "berry_colour":"blue",
+        "berry_size":4.3217998985,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.0123455289,
+        "height":221.0147321532,
+        "soil_quality":5.7111385533,
+        "berry_colour":"purple",
+        "berry_size":7.6385484362,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.6069562582,
+        "height":227.4453615537,
+        "soil_quality":3.1895574744,
+        "berry_colour":"purple",
+        "berry_size":5.3235173152,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.3305771547,
+        "height":12.8820291288,
+        "soil_quality":4.4869057353,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.6224529741,
+        "height":476.0001857935,
+        "soil_quality":5.4898238008,
+        "berry_colour":"blue",
+        "berry_size":5.788534554,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.406254909,
+        "height":50.0633454178,
+        "soil_quality":4.7980732558,
+        "berry_colour":"blue",
+        "berry_size":5.3151106062,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.8719621996,
+        "height":506.3971424655,
+        "soil_quality":5.8722828172,
+        "berry_colour":"blue",
+        "berry_size":6.3116136364,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.7359771715,
+        "height":350.8417579209,
+        "soil_quality":5.4969049691,
+        "berry_colour":"purple",
+        "berry_size":7.6837197601,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.6970985474,
+        "height":247.6920034024,
+        "soil_quality":3.0267045834,
+        "berry_colour":"grey",
+        "berry_size":6.031563775,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.8411477294,
+        "height":37.3205139776,
+        "soil_quality":4.7837775228,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.2670571942,
+        "height":493.7942408782,
+        "soil_quality":5.6117796807,
+        "berry_colour":"purple",
+        "berry_size":8.0616215922,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.6231932454,
+        "height":117.7016057154,
+        "soil_quality":3.0541811985,
+        "berry_colour":"blue",
+        "berry_size":2.6392902384,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.5927863503,
+        "height":419.155439138,
+        "soil_quality":4.6001673949,
+        "berry_colour":"blue",
+        "berry_size":4.7980189274,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.2292302106,
+        "height":51.7123268379,
+        "soil_quality":5.0354602042,
+        "berry_colour":"green",
+        "berry_size":6.7282558055,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.897474082,
+        "height":45.6062107061,
+        "soil_quality":4.4663050812,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.9452948962,
+        "height":37.6178402792,
+        "soil_quality":4.8596104676,
+        "berry_colour":"blue",
+        "berry_size":6.279407114,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.1588402536,
+        "height":184.2885250328,
+        "soil_quality":3.70011137,
+        "berry_colour":"purple",
+        "berry_size":6.7511135663,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.1610050624,
+        "height":103.1825825204,
+        "soil_quality":4.0467340418,
+        "berry_colour":"purple",
+        "berry_size":6.5629143289,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.957844869,
+        "height":45.8434730744,
+        "soil_quality":5.2350365974,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.6678931145,
+        "height":166.9765295497,
+        "soil_quality":5.7913242157,
+        "berry_colour":"grey",
+        "berry_size":11.3498885036,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.1411246392,
+        "height":17.896298112,
+        "soil_quality":4.0322180422,
+        "berry_colour":"green",
+        "berry_size":5.0823581186,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.9260105532,
+        "height":260.3047045674,
+        "soil_quality":4.5206102442,
+        "berry_colour":"blue",
+        "berry_size":4.1485681553,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.9405820561,
+        "height":72.8087754657,
+        "soil_quality":5.9706339253,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.7545198262,
+        "height":251.4350460141,
+        "soil_quality":3.1931644735,
+        "berry_colour":"purple",
+        "berry_size":5.6664169467,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.9302423091,
+        "height":186.3277631442,
+        "soil_quality":3.9511892118,
+        "berry_colour":"purple",
+        "berry_size":7.3409600766,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.454493232,
+        "height":68.0310610232,
+        "soil_quality":4.5176521487,
+        "berry_colour":"blue",
+        "berry_size":5.7588435398,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.3306651086,
+        "height":65.8830351753,
+        "soil_quality":4.8613884594,
+        "berry_colour":"green",
+        "berry_size":7.897438729,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.2672879277,
+        "height":219.4246605027,
+        "soil_quality":4.196071194,
+        "berry_colour":"purple",
+        "berry_size":7.5115942873,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.6659571477,
+        "height":41.7923149856,
+        "soil_quality":4.1847597926,
+        "berry_colour":"blue",
+        "berry_size":6.1372084282,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.3532114857,
+        "height":47.901477754,
+        "soil_quality":4.1810333744,
+        "berry_colour":"green",
+        "berry_size":7.4557939855,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.5606883225,
+        "height":410.8694153559,
+        "soil_quality":4.8441753021,
+        "berry_colour":"purple",
+        "berry_size":8.8349200589,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.9495820822,
+        "height":96.4689629721,
+        "soil_quality":5.9421860732,
+        "berry_colour":"blue",
+        "berry_size":7.0268533744,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.3084309296,
+        "height":120.6488905825,
+        "soil_quality":3.8571767834,
+        "berry_colour":"grey",
+        "berry_size":7.147890299,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.3943705215,
+        "height":388.5367150256,
+        "soil_quality":5.5728505913,
+        "berry_colour":"blue",
+        "berry_size":9.0826533888,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.9738609762,
+        "height":125.3112618657,
+        "soil_quality":4.0279452795,
+        "berry_colour":"blue",
+        "berry_size":5.4931302753,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.2299857021,
+        "height":28.7150583992,
+        "soil_quality":3.4738492394,
+        "berry_colour":"blue",
+        "berry_size":3.7592961128,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6180001656,
+        "height":179.5718915839,
+        "soil_quality":5.2003507554,
+        "berry_colour":"grey",
+        "berry_size":9.2611809264,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.7681370415,
+        "height":112.0983239061,
+        "soil_quality":3.0503288366,
+        "berry_colour":"purple",
+        "berry_size":6.8537849797,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.0834405448,
+        "height":0.6315330364,
+        "soil_quality":3.3472579975,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6826182845,
+        "height":58.7349751722,
+        "soil_quality":4.6945199149,
+        "berry_colour":"blue",
+        "berry_size":5.1017679664,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.1396037342,
+        "height":426.6519447134,
+        "soil_quality":5.9458370309,
+        "berry_colour":"purple",
+        "berry_size":9.6149984669,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.3265790503,
+        "height":87.941312037,
+        "soil_quality":5.7459453171,
+        "berry_colour":"green",
+        "berry_size":8.1488882586,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.8481150062,
+        "height":78.7444906759,
+        "soil_quality":3.6954146467,
+        "berry_colour":"blue",
+        "berry_size":4.8169095508,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.5429664582,
+        "height":230.0128730827,
+        "soil_quality":4.4330674898,
+        "berry_colour":"purple",
+        "berry_size":6.1485805321,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.4924689301,
+        "height":374.0584149482,
+        "soil_quality":4.3232528039,
+        "berry_colour":"purple",
+        "berry_size":7.2485000688,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.586618777,
+        "height":305.9151472927,
+        "soil_quality":4.8838894911,
+        "berry_colour":"purple",
+        "berry_size":5.943985881,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.8836784205,
+        "height":274.3611122785,
+        "soil_quality":3.838333926,
+        "berry_colour":"blue",
+        "berry_size":4.4774428071,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.6871772807,
+        "height":46.835432609,
+        "soil_quality":4.7792353617,
+        "berry_colour":"blue",
+        "berry_size":6.6558208298,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.2054106997,
+        "height":43.9384061822,
+        "soil_quality":3.1695395746,
+        "berry_colour":"green",
+        "berry_size":5.4493560404,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.2981881297,
+        "height":247.3014556365,
+        "soil_quality":3.033535424,
+        "berry_colour":"purple",
+        "berry_size":4.3102641433,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.0248817005,
+        "height":434.5343825373,
+        "soil_quality":4.7988924614,
+        "berry_colour":"purple",
+        "berry_size":9.2714925483,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.724286099,
+        "height":95.0169931674,
+        "soil_quality":4.7205839885,
+        "berry_colour":"blue",
+        "berry_size":5.2972930355,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.9518958123,
+        "height":450.8837580398,
+        "soil_quality":4.9593569787,
+        "berry_colour":"purple",
+        "berry_size":7.7692462709,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.025883863,
+        "height":396.75907894,
+        "soil_quality":5.9637250506,
+        "berry_colour":"grey",
+        "berry_size":9.9894576353,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.7897675673,
+        "height":323.2228260445,
+        "soil_quality":3.3559867477,
+        "berry_colour":"grey",
+        "berry_size":5.8969318546,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.652991903,
+        "height":41.6423926299,
+        "soil_quality":4.7957069352,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.5047220732,
+        "height":19.7425740102,
+        "soil_quality":3.9421213842,
+        "berry_colour":"green",
+        "berry_size":5.4024492244,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.5172888411,
+        "height":300.5231391508,
+        "soil_quality":3.3675540086,
+        "berry_colour":"purple",
+        "berry_size":5.8404792958,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.4648231491,
+        "height":319.8959480077,
+        "soil_quality":5.338358829,
+        "berry_colour":"purple",
+        "berry_size":7.2920369726,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.0922235161,
+        "height":99.1476649794,
+        "soil_quality":5.020699331,
+        "berry_colour":"blue",
+        "berry_size":6.2333397942,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.5734640408,
+        "height":113.8565122026,
+        "soil_quality":3.8706596819,
+        "berry_colour":"purple",
+        "berry_size":6.009868915,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.2805012438,
+        "height":308.2187780334,
+        "soil_quality":3.7088711444,
+        "berry_colour":"purple",
+        "berry_size":6.0586343887,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.0716129513,
+        "height":28.0523716471,
+        "soil_quality":5.5267718179,
+        "berry_colour":"green",
+        "berry_size":6.7605071053,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.8051015433,
+        "height":142.9585815056,
+        "soil_quality":4.0564476892,
+        "berry_colour":"purple",
+        "berry_size":6.4089300441,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.3239843074,
+        "height":17.6392761721,
+        "soil_quality":4.7306703841,
+        "berry_colour":"green",
+        "berry_size":5.4601720441,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.1923996607,
+        "height":111.9048545621,
+        "soil_quality":3.7599016548,
+        "berry_colour":"blue",
+        "berry_size":3.7707527866,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.1009461441,
+        "height":151.3004275102,
+        "soil_quality":3.9506227623,
+        "berry_colour":"purple",
+        "berry_size":6.3461323247,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.8269593337,
+        "height":148.6591524928,
+        "soil_quality":5.4125219361,
+        "berry_colour":"grey",
+        "berry_size":10.4231332868,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.5114076225,
+        "height":147.5428838563,
+        "soil_quality":4.1545969409,
+        "berry_colour":"grey",
+        "berry_size":8.34661775,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.0298535423,
+        "height":259.9432204297,
+        "soil_quality":4.8550477243,
+        "berry_colour":"purple",
+        "berry_size":7.1733574976,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.5165352057,
+        "height":334.8980006863,
+        "soil_quality":5.3087777052,
+        "berry_colour":"grey",
+        "berry_size":9.5124603177,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.6096405476,
+        "height":306.1983384475,
+        "soil_quality":5.8981895253,
+        "berry_colour":"purple",
+        "berry_size":9.1479944535,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.6981587438,
+        "height":344.4499687277,
+        "soil_quality":3.8563221711,
+        "berry_colour":"purple",
+        "berry_size":6.2979237593,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.6654396191,
+        "height":95.7322483888,
+        "soil_quality":4.0896001307,
+        "berry_colour":"grey",
+        "berry_size":8.1675804605,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.0785524716,
+        "height":81.3625985951,
+        "soil_quality":3.5531844932,
+        "berry_colour":"green",
+        "berry_size":5.7657506176,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.2731822179,
+        "height":165.0028361901,
+        "soil_quality":3.7476683922,
+        "berry_colour":"grey",
+        "berry_size":7.0961499114,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.0974948816,
+        "height":49.3655955251,
+        "soil_quality":3.2454041165,
+        "berry_colour":"green",
+        "berry_size":2.4189294337,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.922634883,
+        "height":172.2938731454,
+        "soil_quality":5.9857163372,
+        "berry_colour":"purple",
+        "berry_size":12.4852108328,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.1050847118,
+        "height":81.5926999879,
+        "soil_quality":4.6678599561,
+        "berry_colour":"blue",
+        "berry_size":5.6157347346,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.4228283824,
+        "height":459.885414763,
+        "soil_quality":5.1285367641,
+        "berry_colour":"purple",
+        "berry_size":9.5303682649,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.0229332852,
+        "height":125.7513236011,
+        "soil_quality":5.6024326291,
+        "berry_colour":"grey",
+        "berry_size":8.6295713338,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.0912710679,
+        "height":144.9972960973,
+        "soil_quality":3.1555468369,
+        "berry_colour":"grey",
+        "berry_size":2.8496665737,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.8556880268,
+        "height":166.944258934,
+        "soil_quality":3.6233564998,
+        "berry_colour":"purple",
+        "berry_size":7.6325364667,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.7249142002,
+        "height":93.68573531,
+        "soil_quality":4.6644521602,
+        "berry_colour":"blue",
+        "berry_size":5.7948351274,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.6597255593,
+        "height":168.5652498444,
+        "soil_quality":3.8025695125,
+        "berry_colour":"grey",
+        "berry_size":6.2287429654,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.3270413726,
+        "height":13.0851683236,
+        "soil_quality":3.4469574832,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.1126699702,
+        "height":84.7855636484,
+        "soil_quality":4.4315245553,
+        "berry_colour":"blue",
+        "berry_size":7.3550982141,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.2301932696,
+        "height":9.7858639106,
+        "soil_quality":5.4590046611,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.1771395912,
+        "height":538.7553951099,
+        "soil_quality":5.745163464,
+        "berry_colour":"purple",
+        "berry_size":7.0827100879,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.5323580184,
+        "height":161.1011155111,
+        "soil_quality":3.9390095367,
+        "berry_colour":"purple",
+        "berry_size":8.1663083908,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.9286675305,
+        "height":179.7198827017,
+        "soil_quality":5.5763084645,
+        "berry_colour":"purple",
+        "berry_size":7.8156945143,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.1188218669,
+        "height":302.7549772874,
+        "soil_quality":3.9625317511,
+        "berry_colour":"grey",
+        "berry_size":7.4778827105,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.2199084295,
+        "height":344.4788481097,
+        "soil_quality":4.9489535007,
+        "berry_colour":"purple",
+        "berry_size":8.2958175451,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.0080541738,
+        "height":150.8863568772,
+        "soil_quality":4.8230370345,
+        "berry_colour":"grey",
+        "berry_size":8.2552199932,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.3502995044,
+        "height":16.425593631,
+        "soil_quality":3.8970769064,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.691348837,
+        "height":358.022617447,
+        "soil_quality":3.0314466918,
+        "berry_colour":"purple",
+        "berry_size":6.8822455864,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.2264722485,
+        "height":52.2538248188,
+        "soil_quality":5.700732857,
+        "berry_colour":"blue",
+        "berry_size":8.3374009696,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.1250537515,
+        "height":6.1231451706,
+        "soil_quality":3.3526088661,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.8144544648,
+        "height":199.0797162668,
+        "soil_quality":3.3776935025,
+        "berry_colour":"purple",
+        "berry_size":4.4551914826,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.6450393731,
+        "height":19.7701195798,
+        "soil_quality":3.4919026558,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.1724848274,
+        "height":31.6288213253,
+        "soil_quality":5.2252269667,
+        "berry_colour":"blue",
+        "berry_size":5.797515317,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.1430544357,
+        "height":262.7883088191,
+        "soil_quality":5.3180850175,
+        "berry_colour":"blue",
+        "berry_size":6.2811487813,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.6800294019,
+        "height":506.7409688251,
+        "soil_quality":5.5351620861,
+        "berry_colour":"purple",
+        "berry_size":9.6909783333,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.3915384968,
+        "height":278.2821787323,
+        "soil_quality":3.4753199026,
+        "berry_colour":"purple",
+        "berry_size":6.2369541462,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.3012742098,
+        "height":482.8832719164,
+        "soil_quality":4.4376904836,
+        "berry_colour":"purple",
+        "berry_size":6.4558449128,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.8731669185,
+        "height":206.4497932076,
+        "soil_quality":4.8993080001,
+        "berry_colour":"purple",
+        "berry_size":7.4571873869,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.0790065372,
+        "height":188.8306762068,
+        "soil_quality":3.7287546392,
+        "berry_colour":"purple",
+        "berry_size":7.1148784451,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.0571677136,
+        "height":2.0013498173,
+        "soil_quality":5.6936402928,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.8665234918,
+        "height":338.3336442921,
+        "soil_quality":3.655268449,
+        "berry_colour":"purple",
+        "berry_size":6.6390417335,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.7874876267,
+        "height":98.179939703,
+        "soil_quality":5.9703767607,
+        "berry_colour":"blue",
+        "berry_size":8.7173964124,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.8186049152,
+        "height":24.7925233783,
+        "soil_quality":4.795345214,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.0094850187,
+        "height":0.2893534878,
+        "soil_quality":4.2035525899,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.1011925796,
+        "height":4.3295723218,
+        "soil_quality":4.2800104179,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.584601218,
+        "height":475.4614700565,
+        "soil_quality":5.552451088,
+        "berry_colour":"purple",
+        "berry_size":10.1930767607,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.4232630538,
+        "height":273.8016666427,
+        "soil_quality":5.6136319292,
+        "berry_colour":"purple",
+        "berry_size":8.57941791,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.4343514903,
+        "height":163.2856435914,
+        "soil_quality":4.9773529412,
+        "berry_colour":"purple",
+        "berry_size":7.8385404337,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.2992824275,
+        "height":541.8070871241,
+        "soil_quality":5.5335187383,
+        "berry_colour":"blue",
+        "berry_size":5.9213975291,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.4162067806,
+        "height":194.0340877254,
+        "soil_quality":5.6511445909,
+        "berry_colour":"blue",
+        "berry_size":8.7028785415,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.9295541092,
+        "height":180.6448934968,
+        "soil_quality":3.6985527599,
+        "berry_colour":"blue",
+        "berry_size":4.2014396401,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.2749170573,
+        "height":49.8536632823,
+        "soil_quality":3.2831087156,
+        "berry_colour":"green",
+        "berry_size":6.4437808717,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.9208379261,
+        "height":247.0008887276,
+        "soil_quality":4.5976148886,
+        "berry_colour":"grey",
+        "berry_size":8.6432085326,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.1407511996,
+        "height":185.2234135066,
+        "soil_quality":4.4080259273,
+        "berry_colour":"purple",
+        "berry_size":7.6231051912,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.3149260514,
+        "height":227.7023246898,
+        "soil_quality":3.710077878,
+        "berry_colour":"grey",
+        "berry_size":7.5998410417,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.0780859337,
+        "height":214.1660724416,
+        "soil_quality":4.7584256414,
+        "berry_colour":"blue",
+        "berry_size":5.8333204366,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.2220508185,
+        "height":52.9282303307,
+        "soil_quality":4.6964791237,
+        "berry_colour":"blue",
+        "berry_size":6.1560074979,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.7647880403,
+        "height":69.545190216,
+        "soil_quality":4.3927869562,
+        "berry_colour":"blue",
+        "berry_size":4.4418850119,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.5309500628,
+        "height":14.4705849569,
+        "soil_quality":3.2297901895,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.2514969265,
+        "height":56.3903693382,
+        "soil_quality":5.1926748291,
+        "berry_colour":"blue",
+        "berry_size":5.0466016114,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.4601878432,
+        "height":71.8033814867,
+        "soil_quality":3.6179078431,
+        "berry_colour":"blue",
+        "berry_size":2.7972007911,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.2864420315,
+        "height":20.0251289322,
+        "soil_quality":3.6901252486,
+        "berry_colour":"green",
+        "berry_size":2.4140562271,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.5971052826,
+        "height":28.4540828075,
+        "soil_quality":5.5609721412,
+        "berry_colour":"green",
+        "berry_size":7.4688604817,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.37098625,
+        "height":11.3822592168,
+        "soil_quality":3.9265198038,
+        "berry_colour":"green",
+        "berry_size":4.0752946759,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.1614302952,
+        "height":297.352179539,
+        "soil_quality":4.5223064326,
+        "berry_colour":"purple",
+        "berry_size":5.9020319017,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.6910947408,
+        "height":74.5430903375,
+        "soil_quality":4.7770372543,
+        "berry_colour":"blue",
+        "berry_size":5.4316428881,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.1043100765,
+        "height":68.7440666304,
+        "soil_quality":4.9153949829,
+        "berry_colour":"green",
+        "berry_size":7.2463205584,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.8723350434,
+        "height":110.7596485488,
+        "soil_quality":4.4098073383,
+        "berry_colour":"purple",
+        "berry_size":5.636050354,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.3793144593,
+        "height":456.1192580146,
+        "soil_quality":4.8323862004,
+        "berry_colour":"grey",
+        "berry_size":7.0727796205,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.1887107468,
+        "height":425.5166033727,
+        "soil_quality":5.5932605503,
+        "berry_colour":"purple",
+        "berry_size":8.7323064415,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.6573339466,
+        "height":83.1990271319,
+        "soil_quality":5.5983820141,
+        "berry_colour":"green",
+        "berry_size":9.1861477968,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.4967663165,
+        "height":168.4904926007,
+        "soil_quality":5.557196906,
+        "berry_colour":"grey",
+        "berry_size":11.8178090161,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.5904131352,
+        "height":42.3126841252,
+        "soil_quality":4.873378139,
+        "berry_colour":"blue",
+        "berry_size":6.2832624956,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.9386192942,
+        "height":68.7477222384,
+        "soil_quality":5.5381506472,
+        "berry_colour":"green",
+        "berry_size":9.5951875624,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.0945088385,
+        "height":216.5238713395,
+        "soil_quality":5.1299718169,
+        "berry_colour":"grey",
+        "berry_size":9.0264734821,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.8540891123,
+        "height":394.6740120525,
+        "soil_quality":5.367249215,
+        "berry_colour":"blue",
+        "berry_size":5.8866665348,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.3947758805,
+        "height":29.2681761552,
+        "soil_quality":3.0673814649,
+        "berry_colour":"green",
+        "berry_size":7.6860299074,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.6991214782,
+        "height":185.7021837478,
+        "soil_quality":3.7451148977,
+        "berry_colour":"grey",
+        "berry_size":6.2541529844,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.7969154484,
+        "height":135.6166477574,
+        "soil_quality":3.1361872797,
+        "berry_colour":"grey",
+        "berry_size":6.216952811,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.3891502847,
+        "height":56.5382672743,
+        "soil_quality":4.8784187694,
+        "berry_colour":"green",
+        "berry_size":8.5620378271,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.4196987102,
+        "height":172.2666659837,
+        "soil_quality":4.6765885879,
+        "berry_colour":"purple",
+        "berry_size":8.4311769556,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.1807222099,
+        "height":8.6367258424,
+        "soil_quality":5.8460994243,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.7247952372,
+        "height":361.9744435039,
+        "soil_quality":4.3529707397,
+        "berry_colour":"blue",
+        "berry_size":4.2495668221,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.1786660417,
+        "height":41.4256952719,
+        "soil_quality":5.2890631916,
+        "berry_colour":"blue",
+        "berry_size":6.6767076954,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.115437592,
+        "height":472.3990714116,
+        "soil_quality":4.8298867037,
+        "berry_colour":"purple",
+        "berry_size":7.6306572208,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.1280148093,
+        "height":53.5034514359,
+        "soil_quality":3.0472832638,
+        "berry_colour":"green",
+        "berry_size":6.658442836,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.7331681718,
+        "height":63.0567751002,
+        "soil_quality":4.3485117395,
+        "berry_colour":"green",
+        "berry_size":7.280239979,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.1997956659,
+        "height":390.1036767609,
+        "soil_quality":4.6708413218,
+        "berry_colour":"grey",
+        "berry_size":9.0203507245,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.8357119011,
+        "height":326.0941538374,
+        "soil_quality":4.4573468559,
+        "berry_colour":"purple",
+        "berry_size":8.5562558965,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.3116644711,
+        "height":28.4684594717,
+        "soil_quality":3.0005409292,
+        "berry_colour":"green",
+        "berry_size":2.7354919468,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.8276936734,
+        "height":318.0456830094,
+        "soil_quality":5.1684015146,
+        "berry_colour":"purple",
+        "berry_size":7.3454083395,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.8846559895,
+        "height":204.3312857903,
+        "soil_quality":3.5811869563,
+        "berry_colour":"grey",
+        "berry_size":7.9048158995,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.2426144192,
+        "height":2.090718477,
+        "soil_quality":4.9309992062,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6493421973,
+        "height":134.9497451103,
+        "soil_quality":3.3835310429,
+        "berry_colour":"blue",
+        "berry_size":4.6263356276,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.5044007714,
+        "height":35.9153261703,
+        "soil_quality":5.8339728098,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.0169442139,
+        "height":34.1865850188,
+        "soil_quality":3.2567631908,
+        "berry_colour":"blue",
+        "berry_size":4.3960555854,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.4758196535,
+        "height":75.4637445231,
+        "soil_quality":5.5939355852,
+        "berry_colour":"green",
+        "berry_size":9.6605138903,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.9146769868,
+        "height":207.2665880994,
+        "soil_quality":5.5859222353,
+        "berry_colour":"purple",
+        "berry_size":9.3644620229,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.2297036148,
+        "height":535.1763096358,
+        "soil_quality":5.9244366768,
+        "berry_colour":"purple",
+        "berry_size":9.102397134,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.3417972654,
+        "height":273.018470198,
+        "soil_quality":3.2225744214,
+        "berry_colour":"purple",
+        "berry_size":5.1629362097,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.7633569915,
+        "height":38.0161040668,
+        "soil_quality":5.207341496,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.7209339718,
+        "height":18.8297546437,
+        "soil_quality":4.3030716522,
+        "berry_colour":"green",
+        "berry_size":4.4175589653,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.4914261418,
+        "height":418.1083745212,
+        "soil_quality":5.2138219943,
+        "berry_colour":"purple",
+        "berry_size":8.6225354524,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.9806929851,
+        "height":185.056810269,
+        "soil_quality":4.8242372505,
+        "berry_colour":"purple",
+        "berry_size":8.3464644212,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.0501054704,
+        "height":361.3585299985,
+        "soil_quality":5.8410835225,
+        "berry_colour":"grey",
+        "berry_size":9.62099904,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.421995044,
+        "height":492.2278506241,
+        "soil_quality":3.7017563937,
+        "berry_colour":"purple",
+        "berry_size":8.2852135809,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.0979698135,
+        "height":184.5114017298,
+        "soil_quality":5.2078978413,
+        "berry_colour":"grey",
+        "berry_size":7.8163799525,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.4558751209,
+        "height":93.6922952429,
+        "soil_quality":3.8638970268,
+        "berry_colour":"green",
+        "berry_size":5.0821827939,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.5997104656,
+        "height":144.9252890133,
+        "soil_quality":3.5728025208,
+        "berry_colour":"purple",
+        "berry_size":7.3390164295,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.6109643907,
+        "height":57.690002457,
+        "soil_quality":3.5698392547,
+        "berry_colour":"blue",
+        "berry_size":4.4964848623,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.2589463676,
+        "height":10.0291478461,
+        "soil_quality":5.4738824515,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.8786206001,
+        "height":176.8872003289,
+        "soil_quality":5.8722568239,
+        "berry_colour":"purple",
+        "berry_size":10.0744492319,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.8003166768,
+        "height":74.2863247132,
+        "soil_quality":4.0947308436,
+        "berry_colour":"blue",
+        "berry_size":3.4711723886,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.8765884716,
+        "height":95.3652863525,
+        "soil_quality":4.578361954,
+        "berry_colour":"blue",
+        "berry_size":4.6128998887,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.0919104389,
+        "height":266.0659642771,
+        "soil_quality":5.4096626695,
+        "berry_colour":"grey",
+        "berry_size":9.1921709831,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.3419860484,
+        "height":528.4157728505,
+        "soil_quality":5.6906914807,
+        "berry_colour":"purple",
+        "berry_size":10.0854891635,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.1647367852,
+        "height":254.7458941332,
+        "soil_quality":3.3746903628,
+        "berry_colour":"blue",
+        "berry_size":4.4905631789,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.6607277013,
+        "height":293.2469942706,
+        "soil_quality":5.3062376279,
+        "berry_colour":"blue",
+        "berry_size":4.5851103485,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.5904268389,
+        "height":206.7379896919,
+        "soil_quality":5.6954625035,
+        "berry_colour":"purple",
+        "berry_size":9.0932456561,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.18515127,
+        "height":179.4246672418,
+        "soil_quality":5.6763567994,
+        "berry_colour":"blue",
+        "berry_size":6.6485159413,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.5349177832,
+        "height":118.7150369214,
+        "soil_quality":4.4751273749,
+        "berry_colour":"grey",
+        "berry_size":9.1811711313,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.8545143871,
+        "height":117.4629441507,
+        "soil_quality":4.1663855037,
+        "berry_colour":"purple",
+        "berry_size":6.1214855848,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.4428729563,
+        "height":102.1483719995,
+        "soil_quality":3.3381680954,
+        "berry_colour":"blue",
+        "berry_size":4.0961280963,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.2348572528,
+        "height":248.9212349263,
+        "soil_quality":3.9727037662,
+        "berry_colour":"purple",
+        "berry_size":7.0372614893,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.7492616042,
+        "height":282.9686549961,
+        "soil_quality":3.7530896765,
+        "berry_colour":"grey",
+        "berry_size":7.5680965071,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.7910273662,
+        "height":27.5140993964,
+        "soil_quality":3.6943959081,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.9354101814,
+        "height":38.0240353258,
+        "soil_quality":4.0855768326,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.2411865904,
+        "height":178.1202877242,
+        "soil_quality":4.1032997982,
+        "berry_colour":"purple",
+        "berry_size":6.6430779552,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.5207148355,
+        "height":430.8326693429,
+        "soil_quality":5.2636749348,
+        "berry_colour":"purple",
+        "berry_size":8.0862242077,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.5739797808,
+        "height":226.0445773039,
+        "soil_quality":3.814014634,
+        "berry_colour":"blue",
+        "berry_size":4.8758490207,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.5926859367,
+        "height":62.2896236871,
+        "soil_quality":5.7527448054,
+        "berry_colour":"blue",
+        "berry_size":5.5780930262,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.9403520043,
+        "height":128.6283163273,
+        "soil_quality":5.756499991,
+        "berry_colour":"green",
+        "berry_size":9.9796865935,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.2608126897,
+        "height":55.4681960355,
+        "soil_quality":3.7591796898,
+        "berry_colour":"green",
+        "berry_size":3.1713410856,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.0872534994,
+        "height":1.1817597128,
+        "soil_quality":5.3735205142,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.7513335377,
+        "height":173.5039009632,
+        "soil_quality":3.8412633129,
+        "berry_colour":"grey",
+        "berry_size":6.1861981858,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.9203293997,
+        "height":65.3617344962,
+        "soil_quality":3.4072726469,
+        "berry_colour":"blue",
+        "berry_size":3.8692737584,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.8710302345,
+        "height":374.2822030386,
+        "soil_quality":5.4866370419,
+        "berry_colour":"grey",
+        "berry_size":7.1968771416,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.746127693,
+        "height":57.1504468708,
+        "soil_quality":3.1800069172,
+        "berry_colour":"blue",
+        "berry_size":5.0529680391,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.0080416186,
+        "height":30.3734153168,
+        "soil_quality":5.6965061079,
+        "berry_colour":"green",
+        "berry_size":8.5325818652,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.9468447527,
+        "height":364.5972776175,
+        "soil_quality":5.209783634,
+        "berry_colour":"purple",
+        "berry_size":9.059151704,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.8849489477,
+        "height":207.7358075114,
+        "soil_quality":4.6809329914,
+        "berry_colour":"purple",
+        "berry_size":5.8381564698,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.7046615994,
+        "height":41.3049685935,
+        "soil_quality":3.4134415091,
+        "berry_colour":"blue",
+        "berry_size":5.1300415299,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.9817178416,
+        "height":146.9541143902,
+        "soil_quality":5.7717660748,
+        "berry_colour":"blue",
+        "berry_size":9.0730454284,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.3101934194,
+        "height":121.7381495707,
+        "soil_quality":4.4105431254,
+        "berry_colour":"blue",
+        "berry_size":5.4530578751,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.5542323075,
+        "height":89.5907880663,
+        "soil_quality":4.3522704764,
+        "berry_colour":"green",
+        "berry_size":6.3464019822,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.9368382777,
+        "height":207.7346419724,
+        "soil_quality":4.4383115368,
+        "berry_colour":"grey",
+        "berry_size":8.2911353741,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.3239172784,
+        "height":24.7196032345,
+        "soil_quality":3.119118699,
+        "berry_colour":"blue",
+        "berry_size":2.6551836151,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6158181251,
+        "height":238.5938181342,
+        "soil_quality":5.3724468074,
+        "berry_colour":"blue",
+        "berry_size":4.4728285934,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.3873564251,
+        "height":17.4703881255,
+        "soil_quality":5.6618198037,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.535640305,
+        "height":113.0658713286,
+        "soil_quality":3.1513044002,
+        "berry_colour":"blue",
+        "berry_size":4.3528465211,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.7504073784,
+        "height":290.745945946,
+        "soil_quality":4.4233745341,
+        "berry_colour":"grey",
+        "berry_size":7.8278553594,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.4858596902,
+        "height":16.1377532294,
+        "soil_quality":3.9183447101,
+        "berry_colour":"green",
+        "berry_size":4.1702991423,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.3248301371,
+        "height":68.0821479061,
+        "soil_quality":3.0421207335,
+        "berry_colour":"green",
+        "berry_size":6.2678636847,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.2095792504,
+        "height":2.3600069484,
+        "soil_quality":5.4173116923,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.3440677992,
+        "height":49.9968968224,
+        "soil_quality":3.83692062,
+        "berry_colour":"green",
+        "berry_size":3.1640127109,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.6790386463,
+        "height":88.4348058333,
+        "soil_quality":4.6071568923,
+        "berry_colour":"grey",
+        "berry_size":9.1402042421,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.2947234621,
+        "height":218.5629847627,
+        "soil_quality":5.0777377829,
+        "berry_colour":"purple",
+        "berry_size":6.9206476846,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.0927747104,
+        "height":104.1260135507,
+        "soil_quality":4.3803997009,
+        "berry_colour":"green",
+        "berry_size":5.5722885632,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.0709777229,
+        "height":213.5948505885,
+        "soil_quality":4.4537428168,
+        "berry_colour":"grey",
+        "berry_size":9.8646859137,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.8405126319,
+        "height":481.1296803788,
+        "soil_quality":5.1185307584,
+        "berry_colour":"purple",
+        "berry_size":8.8313424657,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.8337787459,
+        "height":493.4515749929,
+        "soil_quality":4.5429237562,
+        "berry_colour":"blue",
+        "berry_size":5.8879417777,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.1253556157,
+        "height":555.3792329225,
+        "soil_quality":4.900022337,
+        "berry_colour":"purple",
+        "berry_size":8.2452541119,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.6807347799,
+        "height":287.8209544113,
+        "soil_quality":5.7763608643,
+        "berry_colour":"purple",
+        "berry_size":10.1224433032,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.1747786777,
+        "height":282.5235688521,
+        "soil_quality":5.6617349703,
+        "berry_colour":"purple",
+        "berry_size":7.8865693872,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.5202208892,
+        "height":58.9635904317,
+        "soil_quality":4.0315424922,
+        "berry_colour":"green",
+        "berry_size":6.5714884911,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.6217112214,
+        "height":355.4032035434,
+        "soil_quality":5.0288916833,
+        "berry_colour":"blue",
+        "berry_size":6.9300131465,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.2424142135,
+        "height":352.2941214519,
+        "soil_quality":4.383482662,
+        "berry_colour":"purple",
+        "berry_size":7.4273063957,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.4537616276,
+        "height":244.545149693,
+        "soil_quality":4.7709072594,
+        "berry_colour":"blue",
+        "berry_size":3.5927097358,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.2745012401,
+        "height":247.1407154981,
+        "soil_quality":3.8521653906,
+        "berry_colour":"blue",
+        "berry_size":5.2407868659,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.3150514069,
+        "height":43.7509705809,
+        "soil_quality":3.2294718967,
+        "berry_colour":"blue",
+        "berry_size":3.6095658283,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.5533610512,
+        "height":215.8461443625,
+        "soil_quality":5.9370958895,
+        "berry_colour":"blue",
+        "berry_size":6.0589165573,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.1473491451,
+        "height":171.6852682168,
+        "soil_quality":5.5453221789,
+        "berry_colour":"grey",
+        "berry_size":8.0807079426,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.7185689797,
+        "height":29.6545703539,
+        "soil_quality":5.003842525,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.8395273683,
+        "height":467.2916795302,
+        "soil_quality":4.4462615775,
+        "berry_colour":"blue",
+        "berry_size":3.3588683781,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.9182066393,
+        "height":28.9764229843,
+        "soil_quality":3.6341477276,
+        "berry_colour":"green",
+        "berry_size":6.8550343339,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.499041389,
+        "height":499.081769122,
+        "soil_quality":4.0222167785,
+        "berry_colour":"purple",
+        "berry_size":6.767796317,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.8675468859,
+        "height":247.4502067992,
+        "soil_quality":3.2749512836,
+        "berry_colour":"blue",
+        "berry_size":0.8520148017,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.2133629609,
+        "height":153.6373892179,
+        "soil_quality":3.1114229092,
+        "berry_colour":"purple",
+        "berry_size":4.4385731612,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.9402301912,
+        "height":467.6161555178,
+        "soil_quality":4.6715642715,
+        "berry_colour":"grey",
+        "berry_size":7.138726621,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.5393331419,
+        "height":21.5210335242,
+        "soil_quality":5.2770703561,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.6357610827,
+        "height":42.7383221889,
+        "soil_quality":4.4640419825,
+        "berry_colour":"blue",
+        "berry_size":7.3797316524,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.8373532731,
+        "height":202.3360985567,
+        "soil_quality":5.8827240002,
+        "berry_colour":"purple",
+        "berry_size":9.187311489,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.6614696049,
+        "height":482.7927854777,
+        "soil_quality":5.7687916159,
+        "berry_colour":"grey",
+        "berry_size":10.2385802913,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.4652080154,
+        "height":107.78930054,
+        "soil_quality":3.8955365481,
+        "berry_colour":"grey",
+        "berry_size":6.6236398917,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.3271779143,
+        "height":254.6889709889,
+        "soil_quality":3.3396899612,
+        "berry_colour":"blue",
+        "berry_size":3.6107824014,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.0036551612,
+        "height":272.6795245423,
+        "soil_quality":5.5835991273,
+        "berry_colour":"grey",
+        "berry_size":9.256721876,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.5693334081,
+        "height":213.4670176298,
+        "soil_quality":5.4048448983,
+        "berry_colour":"blue",
+        "berry_size":5.9504371855,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.1812701203,
+        "height":147.2365862219,
+        "soil_quality":4.2650667008,
+        "berry_colour":"purple",
+        "berry_size":7.365998843,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.286981184,
+        "height":121.1567336522,
+        "soil_quality":4.0925373545,
+        "berry_colour":"grey",
+        "berry_size":7.452516555,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.4431490996,
+        "height":255.9571514264,
+        "soil_quality":5.3039698509,
+        "berry_colour":"purple",
+        "berry_size":9.2261916948,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.7431885016,
+        "height":16.8009231666,
+        "soil_quality":3.6603267735,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.8008482384,
+        "height":95.1799546668,
+        "soil_quality":3.1742558237,
+        "berry_colour":"blue",
+        "berry_size":1.8767152454,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.8853308512,
+        "height":135.4301449765,
+        "soil_quality":4.8331439783,
+        "berry_colour":"blue",
+        "berry_size":5.4918908627,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.4981196158,
+        "height":243.5601277708,
+        "soil_quality":4.6468083211,
+        "berry_colour":"grey",
+        "berry_size":6.1528554286,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.9413795032,
+        "height":203.019699751,
+        "soil_quality":4.8469918092,
+        "berry_colour":"grey",
+        "berry_size":8.9236543875,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.9749815588,
+        "height":331.7502646806,
+        "soil_quality":4.6384607018,
+        "berry_colour":"purple",
+        "berry_size":6.5490211121,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.7757650504,
+        "height":183.683845067,
+        "soil_quality":4.7314243658,
+        "berry_colour":"purple",
+        "berry_size":7.3373610546,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.8315110599,
+        "height":213.4358068255,
+        "soil_quality":5.8867056452,
+        "berry_colour":"grey",
+        "berry_size":10.6265603141,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.3443953023,
+        "height":86.9500305485,
+        "soil_quality":3.1994438415,
+        "berry_colour":"blue",
+        "berry_size":2.5126746358,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.5609686738,
+        "height":84.013418534,
+        "soil_quality":3.270865581,
+        "berry_colour":"blue",
+        "berry_size":3.6683754331,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.9664435694,
+        "height":163.5146827747,
+        "soil_quality":3.587351412,
+        "berry_colour":"purple",
+        "berry_size":6.7875390942,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.5744304069,
+        "height":20.3942447192,
+        "soil_quality":3.0053634341,
+        "berry_colour":"blue",
+        "berry_size":5.2542161104,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.1626103211,
+        "height":110.6033754559,
+        "soil_quality":3.9238667458,
+        "berry_colour":"green",
+        "berry_size":3.8570184354,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.5150133782,
+        "height":73.3587619292,
+        "soil_quality":4.5884115953,
+        "berry_colour":"green",
+        "berry_size":7.6159919132,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.7434729817,
+        "height":87.9111062942,
+        "soil_quality":3.4149880223,
+        "berry_colour":"purple",
+        "berry_size":5.0328365102,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.1448679138,
+        "height":173.2470550089,
+        "soil_quality":3.5013705324,
+        "berry_colour":"blue",
+        "berry_size":3.5873175427,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.9098014282,
+        "height":194.90855787,
+        "soil_quality":4.8062719724,
+        "berry_colour":"blue",
+        "berry_size":4.9402604754,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.2321907385,
+        "height":345.8322619012,
+        "soil_quality":3.7015985403,
+        "berry_colour":"grey",
+        "berry_size":7.5529829413,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.2819009456,
+        "height":34.62757709,
+        "soil_quality":4.7739412398,
+        "berry_colour":"green",
+        "berry_size":5.0784722012,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.4379141657,
+        "height":86.4774177396,
+        "soil_quality":4.6354140733,
+        "berry_colour":"green",
+        "berry_size":5.6049582268,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.5530039206,
+        "height":110.2693461787,
+        "soil_quality":4.0739272246,
+        "berry_colour":"blue",
+        "berry_size":6.5080893979,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.2794417235,
+        "height":219.0305418365,
+        "soil_quality":4.3915714918,
+        "berry_colour":"blue",
+        "berry_size":3.4264612544,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.3085022684,
+        "height":51.7615967661,
+        "soil_quality":4.2989214169,
+        "berry_colour":"green",
+        "berry_size":7.7127706008,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.2582728932,
+        "height":15.3961200323,
+        "soil_quality":3.6207127703,
+        "berry_colour":"green",
+        "berry_size":6.1452336214,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.7363563394,
+        "height":115.797887228,
+        "soil_quality":4.2471186744,
+        "berry_colour":"grey",
+        "berry_size":9.1828390719,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.9072342816,
+        "height":362.7399500552,
+        "soil_quality":5.3012922028,
+        "berry_colour":"purple",
+        "berry_size":8.0729704479,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.1673659903,
+        "height":98.9176369601,
+        "soil_quality":4.5780237017,
+        "berry_colour":"green",
+        "berry_size":4.7724734843,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.0061679293,
+        "height":113.1578942242,
+        "soil_quality":4.5919599943,
+        "berry_colour":"purple",
+        "berry_size":7.649331346,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.5214101903,
+        "height":471.0955454273,
+        "soil_quality":5.1958730713,
+        "berry_colour":"purple",
+        "berry_size":7.709902455,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.2927628366,
+        "height":126.6667343373,
+        "soil_quality":4.5032507718,
+        "berry_colour":"grey",
+        "berry_size":8.2112669713,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.0138062146,
+        "height":40.7487309804,
+        "soil_quality":4.8268747332,
+        "berry_colour":"blue",
+        "berry_size":6.861865087,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.3223175451,
+        "height":151.2077285969,
+        "soil_quality":3.3345468623,
+        "berry_colour":"purple",
+        "berry_size":4.7478505768,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1585646446,
+        "height":6.8698465891,
+        "soil_quality":4.8217570565,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.8181150925,
+        "height":421.1460291515,
+        "soil_quality":4.8391878806,
+        "berry_colour":"blue",
+        "berry_size":4.9122972,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.7730820999,
+        "height":194.9550800798,
+        "soil_quality":4.1378577705,
+        "berry_colour":"grey",
+        "berry_size":6.4115884161,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.445493078,
+        "height":65.1908347876,
+        "soil_quality":5.7517598831,
+        "berry_colour":"blue",
+        "berry_size":8.0611537133,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.0997851444,
+        "height":160.701736076,
+        "soil_quality":4.9210670479,
+        "berry_colour":"purple",
+        "berry_size":8.2699187944,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.2058743258,
+        "height":309.6543257446,
+        "soil_quality":4.090294964,
+        "berry_colour":"grey",
+        "berry_size":6.9630482207,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.4707838145,
+        "height":102.5255667071,
+        "soil_quality":4.2564328398,
+        "berry_colour":"purple",
+        "berry_size":7.6734688793,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.0003040746,
+        "height":59.4680963929,
+        "soil_quality":3.531742346,
+        "berry_colour":"green",
+        "berry_size":5.7863957591,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.1616952175,
+        "height":7.3361548839,
+        "soil_quality":5.3616938416,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.2798465105,
+        "height":189.6222763074,
+        "soil_quality":4.1231791035,
+        "berry_colour":"purple",
+        "berry_size":6.701987696,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.5897172455,
+        "height":65.7107750866,
+        "soil_quality":4.5753139533,
+        "berry_colour":"blue",
+        "berry_size":3.5783448345,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.360736487,
+        "height":189.4619208606,
+        "soil_quality":4.3511129127,
+        "berry_colour":"purple",
+        "berry_size":7.4457009757,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.760185877,
+        "height":384.8104203932,
+        "soil_quality":5.115037374,
+        "berry_colour":"purple",
+        "berry_size":8.7988891335,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.2758571932,
+        "height":79.1717712631,
+        "soil_quality":3.4262978829,
+        "berry_colour":"green",
+        "berry_size":3.6826459422,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.3881241923,
+        "height":85.2884158838,
+        "soil_quality":5.1273991999,
+        "berry_colour":"green",
+        "berry_size":5.8918786263,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.5336646875,
+        "height":65.1337812304,
+        "soil_quality":3.6553819928,
+        "berry_colour":"grey",
+        "berry_size":6.3888986793,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.5991253811,
+        "height":184.1212460817,
+        "soil_quality":4.8780488654,
+        "berry_colour":"grey",
+        "berry_size":8.9960397583,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.4574045887,
+        "height":90.7574755584,
+        "soil_quality":4.7757868331,
+        "berry_colour":"green",
+        "berry_size":7.1343888771,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.9708492612,
+        "height":75.8623816211,
+        "soil_quality":3.738338624,
+        "berry_colour":"blue",
+        "berry_size":3.5900226711,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.502558841,
+        "height":87.4996297045,
+        "soil_quality":5.8163294367,
+        "berry_colour":"green",
+        "berry_size":9.1456057962,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.4780585565,
+        "height":78.0337098605,
+        "soil_quality":5.4948570257,
+        "berry_colour":"blue",
+        "berry_size":6.3608284696,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.3551666006,
+        "height":369.0719009708,
+        "soil_quality":5.4958599401,
+        "berry_colour":"blue",
+        "berry_size":4.7164442454,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.6695069262,
+        "height":51.5170091092,
+        "soil_quality":3.8454579966,
+        "berry_colour":"green",
+        "berry_size":3.4785474673,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.0505270491,
+        "height":63.6062564011,
+        "soil_quality":3.237829406,
+        "berry_colour":"green",
+        "berry_size":5.3860594844,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.7147901079,
+        "height":361.3628744856,
+        "soil_quality":4.2052882095,
+        "berry_colour":"purple",
+        "berry_size":7.7432271462,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.5391720644,
+        "height":91.3973029678,
+        "soil_quality":5.429191508,
+        "berry_colour":"blue",
+        "berry_size":7.5482578914,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.6302244792,
+        "height":29.9870629424,
+        "soil_quality":3.664798097,
+        "berry_colour":"blue",
+        "berry_size":3.4269351697,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.6804970169,
+        "height":207.0634851782,
+        "soil_quality":5.1076249792,
+        "berry_colour":"blue",
+        "berry_size":5.5427551688,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.7784081631,
+        "height":89.4068731316,
+        "soil_quality":4.120618607,
+        "berry_colour":"purple",
+        "berry_size":6.8840562778,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.3935940493,
+        "height":63.3145609819,
+        "soil_quality":5.9329053195,
+        "berry_colour":"green",
+        "berry_size":7.6925141354,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.5752777992,
+        "height":96.5198192991,
+        "soil_quality":5.1892453978,
+        "berry_colour":"green",
+        "berry_size":4.8806630004,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.2661415847,
+        "height":11.4244862981,
+        "soil_quality":4.6647035752,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.4625368934,
+        "height":46.770831941,
+        "soil_quality":3.2314429087,
+        "berry_colour":"green",
+        "berry_size":7.1075779825,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.6133158851,
+        "height":208.7441216006,
+        "soil_quality":4.657510735,
+        "berry_colour":"blue",
+        "berry_size":4.4145044262,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.9021097873,
+        "height":22.8563418455,
+        "soil_quality":3.5267222863,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.1483051351,
+        "height":52.9491091957,
+        "soil_quality":4.4626922897,
+        "berry_colour":"blue",
+        "berry_size":4.8843461646,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.7101430317,
+        "height":74.1337068793,
+        "soil_quality":5.0555803474,
+        "berry_colour":"blue",
+        "berry_size":7.7410932259,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.5333599273,
+        "height":122.4822213575,
+        "soil_quality":5.9207624212,
+        "berry_colour":"blue",
+        "berry_size":8.3735780283,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.8827887469,
+        "height":8.1234688746,
+        "soil_quality":3.6736670576,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.1395684109,
+        "height":405.4158227387,
+        "soil_quality":4.5092517928,
+        "berry_colour":"blue",
+        "berry_size":8.1080407332,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.9027547651,
+        "height":108.3004432004,
+        "soil_quality":4.2003950058,
+        "berry_colour":"blue",
+        "berry_size":4.8455579655,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.5217295159,
+        "height":104.2341604026,
+        "soil_quality":3.9924362407,
+        "berry_colour":"purple",
+        "berry_size":5.0724516483,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.0990699907,
+        "height":330.5514913505,
+        "soil_quality":4.3743239554,
+        "berry_colour":"purple",
+        "berry_size":7.1966006551,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.5777804982,
+        "height":258.0351182765,
+        "soil_quality":3.9716661859,
+        "berry_colour":"purple",
+        "berry_size":6.6073396631,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.1128368985,
+        "height":72.0022348243,
+        "soil_quality":5.6232237529,
+        "berry_colour":"green",
+        "berry_size":7.6367108437,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.0190256611,
+        "height":173.8447327143,
+        "soil_quality":4.5872348875,
+        "berry_colour":"grey",
+        "berry_size":8.7576425419,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.1791996249,
+        "height":52.084614316,
+        "soil_quality":3.614425047,
+        "berry_colour":"green",
+        "berry_size":7.4411059761,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.5828763504,
+        "height":238.5333064242,
+        "soil_quality":5.6100545035,
+        "berry_colour":"purple",
+        "berry_size":10.1509549905,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.8804948502,
+        "height":113.3861875352,
+        "soil_quality":4.8967317222,
+        "berry_colour":"green",
+        "berry_size":8.6637915906,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.2785989152,
+        "height":32.3300968105,
+        "soil_quality":3.2116991034,
+        "berry_colour":"green",
+        "berry_size":4.8610595518,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.8716861174,
+        "height":75.5049421481,
+        "soil_quality":5.2173105727,
+        "berry_colour":"blue",
+        "berry_size":6.1390357338,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.142170247,
+        "height":278.9740103161,
+        "soil_quality":4.2649423494,
+        "berry_colour":"purple",
+        "berry_size":5.92079338,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.3102528132,
+        "height":63.2566982129,
+        "soil_quality":3.0153213701,
+        "berry_colour":"green",
+        "berry_size":3.2367342522,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.8549581539,
+        "height":410.9327529359,
+        "soil_quality":4.5795667398,
+        "berry_colour":"blue",
+        "berry_size":3.3651238074,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.8727327846,
+        "height":469.7997687796,
+        "soil_quality":3.8919008706,
+        "berry_colour":"purple",
+        "berry_size":5.6249683407,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.6909928721,
+        "height":304.726445382,
+        "soil_quality":5.0804421546,
+        "berry_colour":"grey",
+        "berry_size":9.7392332729,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.4849312834,
+        "height":165.5951647796,
+        "soil_quality":4.7901596627,
+        "berry_colour":"blue",
+        "berry_size":6.5260989704,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.5229737378,
+        "height":168.1461566826,
+        "soil_quality":5.1156638637,
+        "berry_colour":"grey",
+        "berry_size":8.6691013018,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.3204792557,
+        "height":84.2622377852,
+        "soil_quality":3.7640165212,
+        "berry_colour":"green",
+        "berry_size":5.0232110147,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.8444865035,
+        "height":46.5049490589,
+        "soil_quality":3.580731055,
+        "berry_colour":"blue",
+        "berry_size":5.4416271872,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.5432703291,
+        "height":14.2528109074,
+        "soil_quality":3.5173928107,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.5216231319,
+        "height":32.8475683034,
+        "soil_quality":3.7003867144,
+        "berry_colour":"blue",
+        "berry_size":4.9001259258,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.0198101976,
+        "height":412.3311649836,
+        "soil_quality":5.5158195818,
+        "berry_colour":"purple",
+        "berry_size":7.0027244766,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.5486379856,
+        "height":6.6309681238,
+        "soil_quality":4.8881699916,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.7598715293,
+        "height":181.1130133367,
+        "soil_quality":3.6316072379,
+        "berry_colour":"blue",
+        "berry_size":2.5090192601,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.0570611548,
+        "height":98.5678282659,
+        "soil_quality":4.050904367,
+        "berry_colour":"blue",
+        "berry_size":3.8411947496,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":2.908103794,
+        "height":153.7023482361,
+        "soil_quality":5.7716695041,
+        "berry_colour":"purple",
+        "berry_size":9.3156020838,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.6042968118,
+        "height":68.1862260809,
+        "soil_quality":5.2264099545,
+        "berry_colour":"blue",
+        "berry_size":6.6724260154,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.8936298823,
+        "height":130.5315882525,
+        "soil_quality":3.9107053226,
+        "berry_colour":"blue",
+        "berry_size":3.8092751004,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.5505419632,
+        "height":7.6543412944,
+        "soil_quality":5.755742129,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.2182460444,
+        "height":28.7090356738,
+        "soil_quality":4.5753033553,
+        "berry_colour":"blue",
+        "berry_size":5.9992619739,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6596703438,
+        "height":209.7693931256,
+        "soil_quality":4.5122597383,
+        "berry_colour":"purple",
+        "berry_size":6.8789078687,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.7401513594,
+        "height":177.4972478072,
+        "soil_quality":4.9374871472,
+        "berry_colour":"purple",
+        "berry_size":8.3378508175,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.5845150996,
+        "height":165.067180123,
+        "soil_quality":5.9271256948,
+        "berry_colour":"grey",
+        "berry_size":10.4685231969,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.119650051,
+        "height":87.1558110982,
+        "soil_quality":3.3031609691,
+        "berry_colour":"grey",
+        "berry_size":8.4843103487,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":3.4300301758,
+        "height":51.6430892193,
+        "soil_quality":3.4333786556,
+        "berry_colour":"grey",
+        "berry_size":6.9925290308,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":5.7248509359,
+        "height":191.7931114375,
+        "soil_quality":3.4626719295,
+        "berry_colour":"blue",
+        "berry_size":2.4113288569,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":0.7367914944,
+        "height":34.4619341992,
+        "soil_quality":5.1839153871,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.508477585,
+        "height":110.881036809,
+        "soil_quality":4.7629730483,
+        "berry_colour":"purple",
+        "berry_size":6.3647561662,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.5111687303,
+        "height":97.730435506,
+        "soil_quality":3.6112374866,
+        "berry_colour":"purple",
+        "berry_size":5.5580177702,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.703234583,
+        "height":47.2394527914,
+        "soil_quality":4.5010432816,
+        "berry_colour":"green",
+        "berry_size":9.0472294905,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.6361941794,
+        "height":99.8706382142,
+        "soil_quality":3.4595464428,
+        "berry_colour":"purple",
+        "berry_size":6.0868187868,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.8222152133,
+        "height":185.9372896714,
+        "soil_quality":5.979210588,
+        "berry_colour":"purple",
+        "berry_size":10.1474708089,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.9960906465,
+        "height":456.4197034584,
+        "soil_quality":5.8460448349,
+        "berry_colour":"purple",
+        "berry_size":10.3093092724,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.7178930279,
+        "height":145.1770435157,
+        "soil_quality":5.9043052862,
+        "berry_colour":"blue",
+        "berry_size":7.9355306329,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.9781884978,
+        "height":556.9931638602,
+        "soil_quality":5.3927252114,
+        "berry_colour":"blue",
+        "berry_size":7.6472357728,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":8.8025755829,
+        "height":94.83055249,
+        "soil_quality":4.0832062577,
+        "berry_colour":"blue",
+        "berry_size":6.3295116228,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.1138391106,
+        "height":287.9808042606,
+        "soil_quality":4.6111163318,
+        "berry_colour":"purple",
+        "berry_size":6.501956674,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.5795739087,
+        "height":186.3546488733,
+        "soil_quality":4.4334347334,
+        "berry_colour":"grey",
+        "berry_size":8.2410351942,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.6405252336,
+        "height":115.9969580899,
+        "soil_quality":4.678506495,
+        "berry_colour":"blue",
+        "berry_size":4.4501226001,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.9698587063,
+        "height":70.7889021139,
+        "soil_quality":3.616531748,
+        "berry_colour":"green",
+        "berry_size":6.6751187779,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.818749901,
+        "height":322.1972816254,
+        "soil_quality":5.7463038062,
+        "berry_colour":"grey",
+        "berry_size":9.82382257,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.5348086987,
+        "height":60.085374201,
+        "soil_quality":3.6604918663,
+        "berry_colour":"grey",
+        "berry_size":6.0534076179,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.6113999643,
+        "height":418.1024135339,
+        "soil_quality":5.5097347934,
+        "berry_colour":"purple",
+        "berry_size":7.9554912562,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.8882859364,
+        "height":108.9802053872,
+        "soil_quality":4.829769257,
+        "berry_colour":"purple",
+        "berry_size":5.6754731295,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.9699237752,
+        "height":98.0417425474,
+        "soil_quality":4.0572538921,
+        "berry_colour":"green",
+        "berry_size":7.9845510879,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.6457524122,
+        "height":481.6834607977,
+        "soil_quality":4.5697761644,
+        "berry_colour":"purple",
+        "berry_size":5.9040015725,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.5187149594,
+        "height":134.6508891951,
+        "soil_quality":3.5898091072,
+        "berry_colour":"grey",
+        "berry_size":7.6748031534,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.0575425428,
+        "height":254.5092311493,
+        "soil_quality":3.049525046,
+        "berry_colour":"blue",
+        "berry_size":4.6238949451,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.2127371222,
+        "height":128.8156181854,
+        "soil_quality":3.3435470156,
+        "berry_colour":"purple",
+        "berry_size":6.6748191615,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.6765476302,
+        "height":144.704724099,
+        "soil_quality":4.0013130963,
+        "berry_colour":"grey",
+        "berry_size":7.7658744499,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.1101371828,
+        "height":84.1303460667,
+        "soil_quality":5.2146423998,
+        "berry_colour":"green",
+        "berry_size":8.9249576693,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.3019622926,
+        "height":308.8822002973,
+        "soil_quality":3.3314549391,
+        "berry_colour":"blue",
+        "berry_size":2.8791752552,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.4797453162,
+        "height":294.8928839007,
+        "soil_quality":3.5243640693,
+        "berry_colour":"purple",
+        "berry_size":6.3429106187,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.5530819168,
+        "height":406.8406504602,
+        "soil_quality":4.5288637136,
+        "berry_colour":"purple",
+        "berry_size":7.5242559783,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.6141791148,
+        "height":60.8149001793,
+        "soil_quality":5.3807805026,
+        "berry_colour":"green",
+        "berry_size":8.0036113258,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.4533195057,
+        "height":122.1162488594,
+        "soil_quality":5.2092802047,
+        "berry_colour":"green",
+        "berry_size":5.8310976056,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.914642186,
+        "height":76.6825835367,
+        "soil_quality":3.948703102,
+        "berry_colour":"grey",
+        "berry_size":6.6356044367,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.0759160741,
+        "height":90.4039291753,
+        "soil_quality":4.5886116763,
+        "berry_colour":"blue",
+        "berry_size":6.9301811939,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.831134004,
+        "height":66.563100943,
+        "soil_quality":3.1049025685,
+        "berry_colour":"green",
+        "berry_size":8.1641114378,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":3.0450567943,
+        "height":48.7726961779,
+        "soil_quality":5.1817825364,
+        "berry_colour":"blue",
+        "berry_size":6.9774045412,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.6042279995,
+        "height":21.2745822297,
+        "soil_quality":4.0004740625,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.2328356996,
+        "height":68.5636798448,
+        "soil_quality":3.0839982938,
+        "berry_colour":"green",
+        "berry_size":4.3420212095,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.0305190645,
+        "height":379.7010800523,
+        "soil_quality":5.6351197384,
+        "berry_colour":"purple",
+        "berry_size":8.9036386789,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.5033762943,
+        "height":116.9651784897,
+        "soil_quality":3.8904711685,
+        "berry_colour":"blue",
+        "berry_size":5.1100933519,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":6.1441261332,
+        "height":193.1851459749,
+        "soil_quality":3.0366636032,
+        "berry_colour":"purple",
+        "berry_size":4.6210199053,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":7.6651466488,
+        "height":380.6272762134,
+        "soil_quality":5.5805909074,
+        "berry_colour":"purple",
+        "berry_size":7.8145605393,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.6617006628,
+        "height":197.2385527503,
+        "soil_quality":5.3304477532,
+        "berry_colour":"blue",
+        "berry_size":6.4390530757,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.480969448,
+        "height":122.2382707015,
+        "soil_quality":3.4672063657,
+        "berry_colour":"blue",
+        "berry_size":4.4824444619,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.742547221,
+        "height":56.8687052263,
+        "soil_quality":3.1772204076,
+        "berry_colour":"green",
+        "berry_size":7.0800646249,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.7944543429,
+        "height":35.2428564403,
+        "soil_quality":5.374700625,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.5070517175,
+        "height":155.8868802695,
+        "soil_quality":4.3060541369,
+        "berry_colour":"blue",
+        "berry_size":4.4621394496,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":6.9811059138,
+        "height":307.5298429825,
+        "soil_quality":4.9820663467,
+        "berry_colour":"grey",
+        "berry_size":10.2859585872,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.3482100137,
+        "height":146.8791726216,
+        "soil_quality":4.8366253025,
+        "berry_colour":"grey",
+        "berry_size":7.9318188486,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.3889300624,
+        "height":464.0901466391,
+        "soil_quality":5.2611935612,
+        "berry_colour":"grey",
+        "berry_size":8.2153343173,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":0.0697180314,
+        "height":3.0235811413,
+        "soil_quality":4.342958712,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.2035669611,
+        "height":14.4173003981,
+        "soil_quality":3.0166431359,
+        "berry_colour":"green",
+        "berry_size":4.0121332157,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.9151301576,
+        "height":324.9114350708,
+        "soil_quality":3.7425518801,
+        "berry_colour":"purple",
+        "berry_size":6.3683324911,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.6673223545,
+        "height":200.4590257316,
+        "soil_quality":5.784066289,
+        "berry_colour":"purple",
+        "berry_size":8.6441949417,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.0498035917,
+        "height":670.1122501155,
+        "soil_quality":5.7015764415,
+        "berry_colour":"blue",
+        "berry_size":8.57765282,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.9712955739,
+        "height":64.2448589042,
+        "soil_quality":5.587237073,
+        "berry_colour":"blue",
+        "berry_size":6.7100896127,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.5053240875,
+        "height":108.4249559284,
+        "soil_quality":3.0978859607,
+        "berry_colour":"blue",
+        "berry_size":2.6251628656,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.8433492972,
+        "height":329.7426530224,
+        "soil_quality":5.4349408191,
+        "berry_colour":"blue",
+        "berry_size":5.3181762767,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.4424619566,
+        "height":182.8516601192,
+        "soil_quality":4.208128833,
+        "berry_colour":"grey",
+        "berry_size":8.0037761081,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.848451811,
+        "height":41.4062982225,
+        "soil_quality":4.9628212595,
+        "berry_colour":"blue",
+        "berry_size":7.0961343105,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":7.0118336796,
+        "height":268.3864349845,
+        "soil_quality":4.0603957644,
+        "berry_colour":"blue",
+        "berry_size":5.3129201612,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.1638815074,
+        "height":108.6607301925,
+        "soil_quality":4.5034593638,
+        "berry_colour":"purple",
+        "berry_size":7.61916357,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":8.6406226211,
+        "height":116.9837599678,
+        "soil_quality":4.6097718012,
+        "berry_colour":"blue",
+        "berry_size":5.9992901579,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.2817800916,
+        "height":78.1932285459,
+        "soil_quality":3.4281905545,
+        "berry_colour":"grey",
+        "berry_size":6.6100482847,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":2.9150620869,
+        "height":144.8994738194,
+        "soil_quality":4.7525182625,
+        "berry_colour":"blue",
+        "berry_size":4.3725208628,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.9096922397,
+        "height":137.6010332835,
+        "soil_quality":3.5564241952,
+        "berry_colour":"grey",
+        "berry_size":7.9611606088,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.9680866633,
+        "height":259.5819980941,
+        "soil_quality":4.5661950885,
+        "berry_colour":"grey",
+        "berry_size":6.1602746145,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":7.2899337465,
+        "height":54.3424057785,
+        "soil_quality":3.5352525168,
+        "berry_colour":"blue",
+        "berry_size":3.4695709411,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.4379308792,
+        "height":195.5024974441,
+        "soil_quality":5.5195817554,
+        "berry_colour":"blue",
+        "berry_size":5.656005511,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.3483041287,
+        "height":101.7311936733,
+        "soil_quality":5.4982175673,
+        "berry_colour":"green",
+        "berry_size":7.416633115,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.8516545377,
+        "height":118.3017447219,
+        "soil_quality":5.3528439541,
+        "berry_colour":"green",
+        "berry_size":5.4683162757,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.5324343723,
+        "height":112.2237140573,
+        "soil_quality":4.5420435089,
+        "berry_colour":"purple",
+        "berry_size":8.0804858334,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.3908914362,
+        "height":54.9187380685,
+        "soil_quality":4.530507324,
+        "berry_colour":"green",
+        "berry_size":7.7258388643,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":0.8396008351,
+        "height":34.7002034162,
+        "soil_quality":5.5366475028,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.8967221095,
+        "height":25.0473327744,
+        "soil_quality":4.2229346544,
+        "berry_colour":"green",
+        "berry_size":6.0405243175,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":3.8433806571,
+        "height":38.7644639179,
+        "soil_quality":4.4604392487,
+        "berry_colour":"blue",
+        "berry_size":4.2650154597,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.1846082168,
+        "height":342.4062784434,
+        "soil_quality":4.0368705812,
+        "berry_colour":"purple",
+        "berry_size":5.8060940871,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.9311422913,
+        "height":96.8428885599,
+        "soil_quality":4.9963669466,
+        "berry_colour":"grey",
+        "berry_size":10.0115025062,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":6.7164973136,
+        "height":96.3639024742,
+        "soil_quality":5.3952519611,
+        "berry_colour":"blue",
+        "berry_size":8.6059887021,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.5740230394,
+        "height":60.1935296944,
+        "soil_quality":5.4729331259,
+        "berry_colour":"green",
+        "berry_size":8.6245101131,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":6.3987912315,
+        "height":75.6215031753,
+        "soil_quality":4.6862475245,
+        "berry_colour":"blue",
+        "berry_size":4.5162522637,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.6529248735,
+        "height":156.3762276476,
+        "soil_quality":4.5131939358,
+        "berry_colour":"purple",
+        "berry_size":10.2039583591,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":0.3894940978,
+        "height":17.0699173366,
+        "soil_quality":4.1330807751,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.8326375251,
+        "height":82.1710204769,
+        "soil_quality":4.3978787503,
+        "berry_colour":"green",
+        "berry_size":7.2890501422,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.3409855597,
+        "height":44.864226042,
+        "soil_quality":4.7013404673,
+        "berry_colour":"green",
+        "berry_size":6.7943283192,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.4661584596,
+        "height":32.5946811667,
+        "soil_quality":4.2125245749,
+        "berry_colour":"green",
+        "berry_size":5.5883826829,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.7652153168,
+        "height":52.4123876286,
+        "soil_quality":4.2100207826,
+        "berry_colour":"blue",
+        "berry_size":3.59733023,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":9.8004846383,
+        "height":302.2952042428,
+        "soil_quality":3.4164943107,
+        "berry_colour":"grey",
+        "berry_size":7.0620968648,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":9.8547959565,
+        "height":327.6281593792,
+        "soil_quality":3.2765372556,
+        "berry_colour":"purple",
+        "berry_size":5.8976533916,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.4115187626,
+        "height":137.2736792643,
+        "soil_quality":3.0864735452,
+        "berry_colour":"purple",
+        "berry_size":7.3442361557,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.3906071962,
+        "height":75.9930158281,
+        "soil_quality":5.2885418466,
+        "berry_colour":"green",
+        "berry_size":6.078952663,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":9.4744114126,
+        "height":463.5994892716,
+        "soil_quality":4.822719263,
+        "berry_colour":"blue",
+        "berry_size":6.7725540789,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":5.1604704387,
+        "height":263.1878868011,
+        "soil_quality":4.9078235418,
+        "berry_colour":"blue",
+        "berry_size":4.9040399108,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":3.2757465606,
+        "height":252.0168224033,
+        "soil_quality":5.5228148561,
+        "berry_colour":"purple",
+        "berry_size":8.2123771316,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.7203372369,
+        "height":198.2724153354,
+        "soil_quality":5.7283509083,
+        "berry_colour":"purple",
+        "berry_size":7.3244428117,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":9.411009368,
+        "height":149.2916033682,
+        "soil_quality":5.687462192,
+        "berry_colour":"blue",
+        "berry_size":7.012506626,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":4.9997385855,
+        "height":236.5997887432,
+        "soil_quality":5.9525702038,
+        "berry_colour":"purple",
+        "berry_size":10.4210759556,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.7967811406,
+        "height":283.6144996988,
+        "soil_quality":3.130289614,
+        "berry_colour":"grey",
+        "berry_size":4.2322615142,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":1.6344623696,
+        "height":87.0100427375,
+        "soil_quality":5.2824432974,
+        "berry_colour":"green",
+        "berry_size":4.9633729624,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":7.325232435,
+        "height":304.8675122648,
+        "soil_quality":3.985718068,
+        "berry_colour":"purple",
+        "berry_size":5.8171289562,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":6.2880512947,
+        "height":254.0526303081,
+        "soil_quality":5.0391148434,
+        "berry_colour":"grey",
+        "berry_size":8.9823150603,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":8.2762566821,
+        "height":624.8194598557,
+        "soil_quality":5.9683083616,
+        "berry_colour":"purple",
+        "berry_size":9.5598531512,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":5.4421092209,
+        "height":161.2561415591,
+        "soil_quality":4.0118419956,
+        "berry_colour":"purple",
+        "berry_size":7.5762840835,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.6381410205,
+        "height":51.7832385036,
+        "soil_quality":5.5190493928,
+        "berry_colour":"blue",
+        "berry_size":7.9263897183,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":1.8731312182,
+        "height":60.565519968,
+        "soil_quality":5.3450067622,
+        "berry_colour":"green",
+        "berry_size":5.684380007,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.1328994399,
+        "height":27.9987139532,
+        "soil_quality":5.6262627188,
+        "berry_colour":"green",
+        "berry_size":7.2665770299,
+        "edible":false,
+        "species":"berrius actius"
+    },
+    {
+        "age":5.0129979933,
+        "height":166.6112196436,
+        "soil_quality":3.2805125172,
+        "berry_colour":"purple",
+        "berry_size":6.6901689064,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":3.4379212097,
+        "height":140.9444969699,
+        "soil_quality":5.6767131874,
+        "berry_colour":"grey",
+        "berry_size":10.0381844858,
+        "edible":false,
+        "species":"berrius elephas"
+    },
+    {
+        "age":4.4415129734,
+        "height":281.7902609754,
+        "soil_quality":5.3613196391,
+        "berry_colour":"purple",
+        "berry_size":6.3186775476,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.5893299675,
+        "height":56.4841837653,
+        "soil_quality":4.6916165889,
+        "berry_colour":"green",
+        "berry_size":6.9067900561,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":9.5413547977,
+        "height":452.7324934146,
+        "soil_quality":4.7164241681,
+        "berry_colour":"blue",
+        "berry_size":5.4145051031,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":1.8500267278,
+        "height":90.8553607573,
+        "soil_quality":4.1807212018,
+        "berry_colour":"green",
+        "berry_size":5.3434322687,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":4.1021316729,
+        "height":206.7405495717,
+        "soil_quality":4.5675043721,
+        "berry_colour":"purple",
+        "berry_size":9.0261310124,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":2.1961020455,
+        "height":154.743228535,
+        "soil_quality":5.8880955506,
+        "berry_colour":"green",
+        "berry_size":9.6649860766,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.7933442424,
+        "height":124.9234779783,
+        "soil_quality":4.6912167218,
+        "berry_colour":"purple",
+        "berry_size":8.5684055195,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.6717477016,
+        "height":181.9072616537,
+        "soil_quality":4.5876183638,
+        "berry_colour":"purple",
+        "berry_size":8.6803676703,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":2.5374100313,
+        "height":164.3549308503,
+        "soil_quality":5.8948158058,
+        "berry_colour":"purple",
+        "berry_size":8.2445667411,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":5.298104695,
+        "height":202.4470197639,
+        "soil_quality":4.3151062973,
+        "berry_colour":"purple",
+        "berry_size":8.8699491166,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":7.7298878374,
+        "height":167.4735314172,
+        "soil_quality":5.7139325173,
+        "berry_colour":"blue",
+        "berry_size":7.3345864453,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":0.8441607405,
+        "height":11.2682040347,
+        "soil_quality":5.3251842598,
+        "berry_colour":"none",
+        "berry_size":0.0,
+        "edible":true,
+        "species":"berrius actius"
+    },
+    {
+        "age":8.6324144286,
+        "height":291.717594208,
+        "soil_quality":4.4726587808,
+        "berry_colour":"purple",
+        "berry_size":8.4409544119,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":4.8667261437,
+        "height":209.3175023409,
+        "soil_quality":4.140861249,
+        "berry_colour":"blue",
+        "berry_size":4.9398399807,
+        "edible":false,
+        "species":"berrius delphinorum"
+    },
+    {
+        "age":2.0096790831,
+        "height":96.703463882,
+        "soil_quality":5.4870743935,
+        "berry_colour":"green",
+        "berry_size":7.1446306401,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":1.4635231575,
+        "height":54.3441660224,
+        "soil_quality":3.5934068796,
+        "berry_colour":"green",
+        "berry_size":8.3327786292,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.0418391938,
+        "height":43.1276522108,
+        "soil_quality":4.9053380256,
+        "berry_colour":"green",
+        "berry_size":8.3534981737,
+        "edible":false,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.5842732796,
+        "height":163.4322945432,
+        "soil_quality":3.4557775965,
+        "berry_colour":"purple",
+        "berry_size":4.4539077055,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":8.9145368111,
+        "height":364.4526591419,
+        "soil_quality":5.9623056196,
+        "berry_colour":"purple",
+        "berry_size":10.5504082449,
+        "edible":true,
+        "species":"berrius boethiae"
+    },
+    {
+        "age":4.7174679816,
+        "height":170.2147819142,
+        "soil_quality":4.1373559356,
+        "berry_colour":"purple",
+        "berry_size":6.2281087004,
+        "edible":false,
+        "species":"berrius codiae"
+    },
+    {
+        "age":1.4956250239,
+        "height":57.5115879288,
+        "soil_quality":4.3652398986,
+        "berry_colour":"green",
+        "berry_size":9.9377816002,
+        "edible":false,
+        "species":"berrius elephas"
+    }
+]
